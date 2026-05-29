@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p><strong>Lab:</strong> <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a></p>
     <p><strong>Email:</strong> <a href="mailto:yaoru.hou@connect.ust.hk">yaoru.hou@connect.ust.hk</a></p>
-    <p><strong>Google Scholar:</strong> <a href="[YOUR_GOOGLE_SCHOLAR_URL]" target="_blank">Google Scholar Profile</a></p>
+    <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=CfZIXg4AAAAJ" target="_blank">Google Scholar Profile</a></p>
     <p><strong>ORCID:</strong> <a href="[YOUR_ORCID_URL]" target="_blank">[YOUR_ORCID_ID]</a></p>
 
 selected_papers: true
@@ -40,6 +40,6 @@ My research lies at the intersection of **emerging nanoscale devices**, **comput
 
 - **Device Modeling & Cross-Layer Benchmarking**<br>Building reliable compact models for spintronic devices and evaluating system-level performance across device, circuit, and algorithm layers.
 
-For a deeper insight into my research, please refer to my <a href="[YOUR_GOOGLE_SCHOLAR_URL]" target="_blank">Google Scholar</a>.
+For a deeper insight into my research, please refer to my <a href="https://scholar.google.com/citations?user=CfZIXg4AAAAJ" target="_blank">Google Scholar</a>.
 
 If you wish to discuss potential collaborations or have any questions, feel free to contact me via <a href="mailto:yaoru.hou@connect.ust.hk">email</a>.

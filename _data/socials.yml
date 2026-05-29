@@ -4,5 +4,5 @@ cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: yaoru.hou@connect.ust.hk # your email address
 orcid_id: [YOUR_ORCID_ID] # your ORCID ID (e.g., 0000-0002-2095-7112)
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: [YOUR_GOOGLE_SCHOLAR_ID] # your Google Scholar ID (e.g., qc6CJjYAAAAJ)
+scholar_userid: CfZIXg4AAAAJ # your Google Scholar ID
 github_username: hyryn-git # your GitHub username
