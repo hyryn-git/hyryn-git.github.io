@@ -6,13 +6,13 @@ subtitle: <a href='#'>Ph.D. Student</a> — <a href='#'>[Your University]</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false
+  image: Yaoru_photo.jpg
+  image_circular: ture
   more_info: >
     <p><strong>Lab:</strong> <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a></p>
     <p><strong>Email:</strong> <a href="mailto:yaoru.hou@connect.ust.hk">yaoru.hou@connect.ust.hk</a></p>
-    <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=CfZIXg4AAAAJ" target="_blank">Google Scholar Profile</a></p>
-    <p><strong>ORCID:</strong> <a href="[YOUR_ORCID_URL]" target="_blank">[YOUR_ORCID_ID]</a></p>
+    <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=CfZIXg4AAAAJ" target="_blank">Yaoru Hou</a></p>
+    
 
 selected_papers: true
 social: true
@@ -24,9 +24,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="#" target="_blank">[Your University]</a>. I work at <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a> under the mentorship of Prof. <a href="[YOUR_ADVISOR_URL]" target="_blank">[Your Advisor Name]</a>.
+I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>. I am a member of <a href="https://sqml.hkust.edu.hk/" target="_blank">Spintronic Quantum Materialization and Learning Lab (SQML)</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=i4v4ng4AAAAJ&hl=en&inst=1381320739207392350" target="_blank">Qiming Shao</a>.
 
-My research lies at the intersection of **emerging nanoscale devices**, **computer architecture**, and **novel computing paradigms**. I focus on leveraging spintronic devices to build efficient and intelligent computing systems beyond traditional CMOS technology.
+Currently, My research interests lie on emerging CMOS-integrated spintronic device circuit design and system-circuit-device Co-design for novel probabilistic computing.
+
+
 
 <h4>Research Interests</h4>
 
@@ -34,9 +36,7 @@ My research lies at the intersection of **emerging nanoscale devices**, **comput
 
 - **Neuromorphic Computing Hardware**<br>Developing hardware-friendly neuromorphic systems that unify artificial neural networks and spiking neural networks using emerging non-volatile memory technologies.
 
-- **Ising Machine & Probabilistic Computing**<br>Exploring Ising model solvers and probabilistic bit (P-bit) implementations for combinatorial optimization and stochastic computing tasks.
-
-- **Bayesian Computing Architectures**<br>Hardware-software co-design for Bayesian inference acceleration using emerging device technologies.
+- **Probabilistic Ising Machine**<br>Exploring Ising model solvers and probabilistic bit (P-bit) implementations for combinatorial optimization and stochastic computing tasks.
 
 - **Device Modeling & Cross-Layer Benchmarking**<br>Building reliable compact models for spintronic devices and evaluating system-level performance across device, circuit, and algorithm layers.
 
