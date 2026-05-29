@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><strong>Lab:</strong> <a href="[YOUR_LAB_URL]" target="_blank">[Your Lab Name]</a></p>
+    <p><strong>Lab:</strong> <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a></p>
     <p><strong>Email:</strong> <a href="mailto:[your.email@university.edu]">[your.email@university.edu]</a></p>
     <p><strong>Google Scholar:</strong> <a href="[YOUR_GOOGLE_SCHOLAR_URL]" target="_blank">Google Scholar Profile</a></p>
     <p><strong>ORCID:</strong> <a href="[YOUR_ORCID_URL]" target="_blank">[YOUR_ORCID_ID]</a></p>
@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="#" target="_blank">[Your University]</a>. I work at <a href="[YOUR_LAB_URL]" target="_blank">[Your Lab Name]</a> under the mentorship of Prof. <a href="[YOUR_ADVISOR_URL]" target="_blank">[Your Advisor Name]</a>.
+I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="#" target="_blank">[Your University]</a>. I work at <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a> under the mentorship of Prof. <a href="[YOUR_ADVISOR_URL]" target="_blank">[Your Advisor Name]</a>.
 
 My research lies at the intersection of **emerging nanoscale devices**, **computer architecture**, and **novel computing paradigms**. I focus on leveraging spintronic devices to build efficient and intelligent computing systems beyond traditional CMOS technology.
 
