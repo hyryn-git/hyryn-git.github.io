@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: tape-out projects
+permalink: /tapouts/
+description: Tape-out and chip design projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [tapeout]
 horizontal: false
 ---
 

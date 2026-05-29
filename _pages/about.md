@@ -18,14 +18,10 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
 I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="#" target="_blank">[Your University]</a>. I work at <a href="[YOUR_LAB_URL]" target="_blank">[Your Lab Name]</a> under the mentorship of Prof. <a href="[YOUR_ADVISOR_URL]" target="_blank">[Your Advisor Name]</a>.
