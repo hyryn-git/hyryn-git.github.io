@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p><strong>Lab:</strong> <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a></p>
-    <p><strong>Email:</strong> <a href="mailto:[your.email@university.edu]">[your.email@university.edu]</a></p>
+    <p><strong>Email:</strong> <a href="mailto:yaoru.hou@connect.ust.hk">yaoru.hou@connect.ust.hk</a></p>
     <p><strong>Google Scholar:</strong> <a href="[YOUR_GOOGLE_SCHOLAR_URL]" target="_blank">Google Scholar Profile</a></p>
     <p><strong>ORCID:</strong> <a href="[YOUR_ORCID_URL]" target="_blank">[YOUR_ORCID_ID]</a></p>
 
@@ -42,4 +42,4 @@ My research lies at the intersection of **emerging nanoscale devices**, **comput
 
 For a deeper insight into my research, please refer to my <a href="[YOUR_GOOGLE_SCHOLAR_URL]" target="_blank">Google Scholar</a>.
 
-If you wish to discuss potential collaborations or have any questions, feel free to contact me via <a href="mailto:[your.email@university.edu]">email</a>.
+If you wish to discuss potential collaborations or have any questions, feel free to contact me via <a href="mailto:yaoru.hou@connect.ust.hk">email</a>.
