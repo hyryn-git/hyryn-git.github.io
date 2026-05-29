@@ -7,7 +7,7 @@ subtitle: <a href='#'>Ph.D. Student</a> — <a href='#'>[Your University]</a>
 profile:
   align: right
   image: Yaoru_photo.jpg
-  image_circular: ture
+  image_circular: true
   more_info: >
     <p><strong>Lab:</strong> <a href="https://sqml.hkust.edu.hk/" target="_blank">SQML Lab</a></p>
     <p><strong>Email:</strong> <a href="mailto:yaoru.hou@connect.ust.hk">yaoru.hou@connect.ust.hk</a></p>
