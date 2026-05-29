@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Your
+first_name: Yaoru
 middle_name: # leave blank if not applicable
-last_name: Name
+last_name: Hou
 contact_note: >
   Feel free to reach out via email for collaboration or discussion.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -285,8 +285,8 @@ display_categories: ["research", "news"]
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Name]
-  first_name: [Your]
+  last_name: [Hou]
+  first_name: [Yaoru]
 
   style: apa
   locale: en
