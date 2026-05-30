@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. Student</a> — <a href='#'>[Your University]</a>
+subtitle: <a href='#'>Ph.D. Student</a> — <a href='#'>HKUST</a>
 
 profile:
   align: right
@@ -24,9 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>. I am a member of <a href="https://sqml.hkust.edu.hk/" target="_blank">Spintronic Quantum Materialization and Learning Lab (SQML)</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=i4v4ng4AAAAJ&hl=en&inst=1381320739207392350" target="_blank">Qiming Shao</a>.
-
-Currently, My research interests lie on emerging CMOS-integrated spintronic device circuit design and system-circuit-device Co-design for novel probabilistic computing.
+I am a Ph.D. student in the Department of Electronic and Computer Engineering at <a href="https://hkust.edu.hk/" target="_blank">The Hong Kong University of Science and Technology</a>. Currently, I am a member of <a href="https://sqml.hkust.edu.hk/" target="_blank">Spintronic Quantum Materialization and Learning Lab (SQML)</a> supervised by Prof. <a href="https://scholar.google.com/citations?user=i4v4ng4AAAAJ&hl=en&inst=1381320739207392350" target="_blank">Qiming Shao</a>. My research interests lie on emerging CMOS-integrated spintronic device circuit design and system-circuit-device Co-design for novel probabilistic computing.
 
 
 

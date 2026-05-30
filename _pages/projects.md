@@ -3,7 +3,7 @@ layout: page
 title: tape-out projects
 permalink: /tapouts/
 description: Tape-out and chip design projects.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [tapeout]
 horizontal: false
