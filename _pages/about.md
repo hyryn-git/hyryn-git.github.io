@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ph.D. Student</a> — <a href='#'>HKUST</a>
+subtitle: Ph.D. Student — HKUST
 
 profile:
   align: right
