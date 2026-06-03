@@ -10,10 +10,7 @@ contact_note: >
   Feel free to reach out via email for collaboration or discussion.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. student in ECE — Spintronics, In-Memory Computing, Neuromorphic Computing.
-footer_text: >
-  © Copyright {{ 'now' | date: "%Y" }} {{ site.first_name }} {{ site.last_name }}.
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: # leave blank to hide footer text
 keywords: spintronics, in-memory-computing, neuromorphic-computing, ising-machine, bayesian-computing, ECE, PhD
 lang: en
 icon: ⚛️
