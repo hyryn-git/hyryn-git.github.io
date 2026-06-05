@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-05'
 papers:
   CfZIXg4AAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -14,7 +14,7 @@ papers:
     title: 'AmPEC: Approximate MRAM with Partial Error Correction for Fine-grained Energy-quality Trade-off'
     year: '2025'
   CfZIXg4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 10
+    citations: 11
     title: Modeling of endurance degradation and hard breakdown for MRAM-OTP demonstration
     year: '2025'
   CfZIXg4AAAAJ:UeHWp8X0CEIC:
