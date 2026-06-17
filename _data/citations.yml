@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-17'
 papers:
   CfZIXg4AAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: A sub-100nA ultra-low leakage MCU embedding always-on domain hybrid tunnel FET-CMOS on 300mm foundry platform
     year: '2023'
   CfZIXg4AAAAJ:9yKSN-GCB0IC:
-    citations: 88
+    citations: 94
     title: 33.4 A 28nm 2Mb STT-MRAM computing-in-memory macro with a refined bit-cell and 22.4-41.5 TOPS/W for AI inference
     year: '2023'
   CfZIXg4AAAAJ:IjCSPb-OGe4C:
@@ -14,13 +14,17 @@ papers:
     title: 'AmPEC: Approximate MRAM with Partial Error Correction for Fine-grained Energy-quality Trade-off'
     year: '2025'
   CfZIXg4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 11
+    citations: 12
     title: Modeling of endurance degradation and hard breakdown for MRAM-OTP demonstration
     year: '2025'
   CfZIXg4AAAAJ:UeHWp8X0CEIC:
-    citations: 5
+    citations: 6
     title: In-memory neural stochastic differential equations with probabilistic differential pair achieved by in-situ p-bit using CMOS integrated voltage-controlled magnetic tunnel junctions
     year: '2024'
+  CfZIXg4AAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Three-body Probabilistic Ising Machine with In-memory Computing based on Dual-mode Spintronic Memristor
+    year: '2026'
   CfZIXg4AAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: Fully Analog In-Memory Annealing Ising Machine with Unified Deterministic and Probabilistic Computing Array Using CMOS-integrated VCMA-MTJ
@@ -42,7 +46,7 @@ papers:
     title: Dependable STT-MRAM with emerging approximation and speculation paradigms
     year: '2021'
   CfZIXg4AAAAJ:u5HHmVD_uO8C:
-    citations: 5
+    citations: 6
     title: BIST-supported cryogenic write trimming with in-MRAM computing case study
     year: '2023'
   CfZIXg4AAAAJ:zYLM7Y9cAGgC:
