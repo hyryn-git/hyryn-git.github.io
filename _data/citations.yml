@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   CfZIXg4AAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: A sub-100nA ultra-low leakage MCU embedding always-on domain hybrid tunnel FET-CMOS on 300mm foundry platform
     year: '2023'
   CfZIXg4AAAAJ:9yKSN-GCB0IC:
-    citations: 96
+    citations: 98
     title: 33.4 A 28nm 2Mb STT-MRAM computing-in-memory macro with a refined bit-cell and 22.4-41.5 TOPS/W for AI inference
     year: '2023'
   CfZIXg4AAAAJ:IjCSPb-OGe4C:
@@ -18,7 +18,7 @@ papers:
     title: Modeling of endurance degradation and hard breakdown for MRAM-OTP demonstration
     year: '2025'
   CfZIXg4AAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 8
     title: In-memory neural stochastic differential equations with probabilistic differential pair achieved by in-situ p-bit using CMOS integrated voltage-controlled magnetic tunnel junctions
     year: '2024'
   CfZIXg4AAAAJ:WF5omc3nYNoC:
@@ -49,6 +49,10 @@ papers:
     citations: 6
     title: BIST-supported cryogenic write trimming with in-MRAM computing case study
     year: '2023'
+  CfZIXg4AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: A 28nm CMOS-Integrated VCMA-MTJ Dual-Function Macro for Deterministic In-Memory Computing Synapses and Stochastic Poisson Neurons in Hybrid Vision
+    year: '2026'
   CfZIXg4AAAAJ:zYLM7Y9cAGgC:
     citations: 6
     title: A 40nm 4Mb high-reliability STT-MRAM achieving 18ns write-time and 94.9% wafer-level-die-yield across-55 C-to-125 C
