@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-10'
 papers:
   CfZIXg4AAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: A sub-100nA ultra-low leakage MCU embedding always-on domain hybrid tunnel FET-CMOS on 300mm foundry platform
     year: '2023'
   CfZIXg4AAAAJ:9yKSN-GCB0IC:
-    citations: 100
+    citations: 101
     title: 33.4 A 28nm 2Mb STT-MRAM computing-in-memory macro with a refined bit-cell and 22.4-41.5 TOPS/W for AI inference
     year: '2023'
   CfZIXg4AAAAJ:IjCSPb-OGe4C:
@@ -19,7 +19,7 @@ papers:
     year: '2025'
   CfZIXg4AAAAJ:UeHWp8X0CEIC:
     citations: 8
-    title: In-memory neural stochastic differential equations with probabilistic differential pair achieved by in-situ p-bit using CMOS integrated voltage-controlled magnetic tunnel junctions
+    title: In-memory neural stochastic differential equations with probabilistic differential pair achieved by in-situ P-Bit using CMOS integrated voltage-controlled magnetic tunnel junctions
     year: '2024'
   CfZIXg4AAAAJ:WF5omc3nYNoC:
     citations: 0
