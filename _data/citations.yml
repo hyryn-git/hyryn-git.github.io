@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-21'
 papers:
   CfZIXg4AAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 12
     title: A sub-100nA ultra-low leakage MCU embedding always-on domain hybrid tunnel FET-CMOS on 300mm foundry platform
     year: '2023'
   CfZIXg4AAAAJ:9yKSN-GCB0IC:
-    citations: 101
+    citations: 105
     title: 33.4 A 28nm 2Mb STT-MRAM computing-in-memory macro with a refined bit-cell and 22.4-41.5 TOPS/W for AI inference
     year: '2023'
   CfZIXg4AAAAJ:IjCSPb-OGe4C:
